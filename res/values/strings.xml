@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">华农电费查询</string>
+    <string name="action_settings">Settings</string>
+    <!-- 选择类型 -->
+    <string-array name="item1">
+        <item>教师</item>
+        <item>在校学生</item>
+        <item>职工</item>
+    </string-array>
+
+    <!-- 选择地区 -->
+    <string-array name="item2">
+        <item>燕山区</item>
+        <item>六一区</item>
+        <item>泰山区</item>
+        <item>跃进区</item>
+        <item>华山区</item>
+    </string-array>
+    <!-- 选择宿舍 -->
+    <string-array name="item3">
+        <item>1栋</item>
+        <item>2栋</item>
+        <item>3栋</item>
+        <item>4栋</item>
+        <item>5栋</item>
+        <item>6栋</item>
+        <item>7栋</item>
+        <item>8栋</item>
+        <item>9栋</item>
+        <item>10栋</item>
+    </string-array>
+    <!-- 选择月份 -->
+    <string-array name="item4">
+        <item>1月</item>
+        <item>2月</item>
+        <item>3月</item>
+        <item>4月</item>
+        <item>5月</item>
+        <item>6月</item>
+        <item>7月</item>
+        <item>8月</item>
+        <item>9月</item>
+        <item>10月</item>
+        <item>11月</item>
+        <item>12月</item>
+    </string-array>
+
+</resources>
